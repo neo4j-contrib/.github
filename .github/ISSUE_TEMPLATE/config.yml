@@ -1,0 +1,10 @@
+contact_links:
+  - name: Neo4j Community Forum
+    url: https://community.neo4j.com
+    about: Please use the Neo4j Community Forum list for open ended discussions and questions
+  - name: Neo4j Discord
+    url: https://dev.neo4j.com/chat
+    about: If you want to chat, or discuss Neo4j and graph related topics on *Discord*
+  - name: Stack Overflow
+    url: https://stackoverflow.com/questions/tagged/neo4j
+    about: For questions about how to use Neo4j and related projects on *Stack Overflow* please tag them [neo4j].
